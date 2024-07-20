@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayanth Gummitha</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate Full Stack developer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthgummitha&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthgummitha" /> </p>
