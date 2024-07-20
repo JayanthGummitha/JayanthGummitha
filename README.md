@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://jayanthgummitha.github.io/Resume-Portfolio/)
 
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif
+
 <h1 align="center">Hi 👋, I'm Jayanth Gummitha</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg">
